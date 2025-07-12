@@ -16,7 +16,7 @@ The aim of this project is to analyze vehicle sales data from December 2014 till
 ### Data Sources/Overview
 
 * Source: Open data source from Maven Analytics website
-(https://mavenanalytics.io/data-playground?).
+(https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data/data).
 * Table Name: Vehicle Sales.
 * Key Fields:
 vehicle year, vehicle make, model, vehicle trim, transmission, mileage, seller name, sale date, market value, sale price.
